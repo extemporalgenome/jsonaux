@@ -21,7 +21,7 @@ func Format(w io.Writer, r io.Reader) error {
 	if err != nil {
 		return err
 	}
-
+	bw.WriteByte('\n')
 	return bw.Flush()
 }
 
