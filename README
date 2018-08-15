@@ -1,0 +1,5 @@
+jsonaux provides opinionated formatting and other auxiliary functionality
+related to JSON I/O.
+
+jsonaux should be considered in-development and subject to change. When and
+if the package stabilizes, it will be moved to github.com/xtgo/jsonaux
